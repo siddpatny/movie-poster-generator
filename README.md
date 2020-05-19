@@ -1,2 +1,2 @@
 # movie-poster-generator
-Generate posters from short plot descriptions.
+Combine text embeddings of the movie plots and the posters and pass it to a DCGAN to generate new posters for unseen plots.
